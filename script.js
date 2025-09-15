@@ -107,7 +107,7 @@ switch (day) {
 // TODO: Sum integers 1..10 with a for loop; display the result of total sum.
 // write code here
 let total = 0;
-for(let i = 1, total = 0; i <= 10; i++) 
+for(let i = 1; i <= 10; i++) 
     total += i;
 console.log(total);
 
